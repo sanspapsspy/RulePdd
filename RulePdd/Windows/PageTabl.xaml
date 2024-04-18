@@ -16,5 +16,6 @@
                 </LinearGradientBrush>
             </StackPanel.Background>
         </StackPanel>
+        <Button Content="Тест" HorizontalAlignment="Left" Margin="81,211,0,0" VerticalAlignment="Top" Height="109" Width="119" Background="#FFFF8686" />
     </Grid>
 </Page>
