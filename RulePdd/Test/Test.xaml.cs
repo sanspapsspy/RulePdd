@@ -13,21 +13,16 @@ using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
 
-namespace RulePdd.Windows
+namespace RulePdd
 {
     /// <summary>
-    /// Логика взаимодействия для PageTabl.xaml
+    /// Логика взаимодействия для Test.xaml
     /// </summary>
-    public partial class PageTabl : Page
+    public partial class Test : Page
     {
-        public PageTabl()
+        public Test()
         {
             InitializeComponent();
-        }
-
-        private void Button_Click(object sender, RoutedEventArgs e)
-        {
-            Test test = new Test();
         }
     }
 }

@@ -22,6 +22,7 @@ namespace RulePdd
         private void BtnSignIn_Click(object sender, RoutedEventArgs e)
         {
             PageTabl pageTabl = new PageTabl();
+            pageTabl.Show();
         }
     }
 }
